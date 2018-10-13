@@ -12,6 +12,7 @@
 		C474BA372171E27C0042C50B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C474BA352171E27C0042C50B /* Main.storyboard */; };
 		C474BA392171E27E0042C50B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C474BA382171E27E0042C50B /* Assets.xcassets */; };
 		C474BA3C2171E27E0042C50B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C474BA3A2171E27E0042C50B /* LaunchScreen.storyboard */; };
+		C474BA442171EA650042C50B /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C474BA432171EA650042C50B /* SignUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C474BA382171E27E0042C50B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C474BA3B2171E27E0042C50B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C474BA3D2171E27E0042C50B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C474BA432171EA650042C50B /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C474BA312171E27C0042C50B /* AppDelegate.swift */,
 				C474BA332171E27C0042C50B /* ViewController.swift */,
 				C474BA352171E27C0042C50B /* Main.storyboard */,
+				C474BA432171EA650042C50B /* SignUpViewController.swift */,
 				C474BA382171E27E0042C50B /* Assets.xcassets */,
 				C474BA3A2171E27E0042C50B /* LaunchScreen.storyboard */,
 				C474BA3D2171E27E0042C50B /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C474BA442171EA650042C50B /* SignUpViewController.swift in Sources */,
 				C474BA342171E27C0042C50B /* ViewController.swift in Sources */,
 				C474BA322171E27C0042C50B /* AppDelegate.swift in Sources */,
 			);
